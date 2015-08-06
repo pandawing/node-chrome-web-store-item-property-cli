@@ -9,6 +9,7 @@
   },
   "bin": "cli.js",
   "dependencies": {
+    "chrome-web-store-item-property": "^0.1.0",
     "meow": "^3.3.0"
   },
   "devDependencies": {
