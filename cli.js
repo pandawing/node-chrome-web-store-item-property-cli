@@ -30,7 +30,7 @@ var cli = meow({
 });
 
 if (cli.input.length < 1) {
-  console.error('Identifier for Chrome Web Store required');
+  console.error('Identifier for Chrome Web Store is required');
   process.exit(1);
 }
 
