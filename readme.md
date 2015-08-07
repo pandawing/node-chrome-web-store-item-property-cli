@@ -2,32 +2,19 @@
 
 [![NPM version][npm-image]][npm-url] [![Travis-CI Status][travis-image]][travis-url] [![Appveyor Status][appveyor-image]][appveyor-url] [![Daviddm Status][daviddm-image]][daviddm-url]
 
-> My spectacular module
+> Gather meta information from chrome web store
 
+See [chrome-web-store-item-property](https://github.com/pandawing/node-chrome-web-store-item-property) for the programmatic API and issue tracker.
 
 ## Install
 
 ```
-$ npm install --save chrome-web-store-item-property-cli
+$ npm install --global chrome-web-store-item-property-cli
 ```
-
-
-## Usage
-
-```js
-var chromeWebStoreItemPropertyCli = require('chrome-web-store-item-property-cli');
-
-chromeWebStoreItemPropertyCli('unicorns');
-//=> unicorns & rainbows
-```
-
 
 
 ## CLI
 
-```
-$ npm install --global chrome-web-store-item-property-cli
-```
 ```
 $ chrome-web-store-item-property-cli --help
 
@@ -44,28 +31,6 @@ $ chrome-web-store-item-property-cli --help
   Options
     --foo  Lorem ipsum. Default: false
 ```
-
-
-
-## API
-
-### chromeWebStoreItemPropertyCli(input, [options])
-
-#### input
-
-*Required*  
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `boolean`  
-Default: `false`
-
-Lorem ipsum.
 
 
 ## Changelog

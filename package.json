@@ -1,6 +1,6 @@
 {
   "name": "chrome-web-store-item-property-cli",
-  "description": "My spectacular module",
+  "description": "Gather meta information from chrome web store",
   "version": "0.0.0",
   "author": {
     "name": "sanemat",
