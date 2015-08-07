@@ -34,7 +34,7 @@
     "cli-app"
   ],
   "license": "MIT",
-  "repository": "sanemat/chrome-web-store-item-property-cli",
+  "repository": "pandawing/node-chrome-web-store-item-property-cli",
   "scripts": {
     "changelog": "touch changelog.md && conventional-changelog -i changelog.md --overwrite --preset angular",
     "david": "david update",

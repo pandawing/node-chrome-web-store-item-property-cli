@@ -43,11 +43,11 @@ $ chrome-web-store-item-property-cli --help
 MIT © [sanemat](http://sane.jp)
 
 
-[travis-url]: https://travis-ci.org/sanemat/chrome-web-store-item-property-cli
-[travis-image]: https://img.shields.io/travis/sanemat/chrome-web-store-item-property-cli/master.svg?style=flat-square&label=travis
-[appveyor-url]: https://ci.appveyor.com/project/sanemat/chrome-web-store-item-property-cli/branch/master
-[appveyor-image]: https://img.shields.io/appveyor/ci/sanemat/chrome-web-store-item-property-cli/master.svg?style=flat-square&label=appveyor
+[travis-url]: https://travis-ci.org/pandawing/node-chrome-web-store-item-property-cli
+[travis-image]: https://img.shields.io/travis/pandawing/node-chrome-web-store-item-property-cli/master.svg?style=flat-square&label=travis
+[appveyor-url]: https://ci.appveyor.com/project/sanemat/node-chrome-web-store-item-property-cli/branch/master
+[appveyor-image]: https://img.shields.io/appveyor/ci/sanemat/node-chrome-web-store-item-property-cli/master.svg?style=flat-square&label=appveyor
 [npm-url]: https://npmjs.org/package/chrome-web-store-item-property-cli
 [npm-image]: https://img.shields.io/npm/v/chrome-web-store-item-property-cli.svg?style=flat-square
-[daviddm-url]: https://david-dm.org/sanemat/chrome-web-store-item-property-cli
-[daviddm-image]: https://img.shields.io/david/sanemat/chrome-web-store-item-property-cli.svg?style=flat-square
+[daviddm-url]: https://david-dm.org/pandawing/node-chrome-web-store-item-property-cli
+[daviddm-image]: https://img.shields.io/david/pandawing/node-chrome-web-store-item-property-cli.svg?style=flat-square
