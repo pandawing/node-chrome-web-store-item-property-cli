@@ -19,17 +19,25 @@ $ npm install --global chrome-web-store-item-property-cli
 $ chrome-web-store-item-property-cli --help
 
   Usage
-    chrome-web-store-item-property-cli [input]
+    $ chrome-web-store-item-property-cli [identifier]
 
-  Example
-    chrome-web-store-item-property-cli
-    unicorns & rainbows
-
-    chrome-web-store-item-property-cli ponies
-    ponies & rainbows
-
-  Options
-    --foo  Lorem ipsum. Default: false
+  Examples
+    $ chrome-web-store-item-property-cli nimelepbpejjlbmoobocpfnjhihnpked | python -mjson.tool
+    {
+      "id": "nimelepbpejjlbmoobocpfnjhihnpked",
+      "image": "https://ssl.gstatic.com/chrome/webstore/images/thumb.png",
+      "interactionCount": {
+        "UserDownloads": "421"
+      },
+      "name": "Do Not Merge WIP for GitHub",
+      "operatingSystems": "Chrome",
+      "price": "$0",
+      "priceCurrency": "USD",
+      "ratingCount": "2",
+      "ratingValue": "4.5",
+      "url": "https://chrome.google.com/webstore/detail/do-not-merge-wip-for-gith/nimelepbpejjlbmoobocpfnjhihnpked",
+      "version": "1.0.6"
+    }
 ```
 
 
