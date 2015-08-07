@@ -22,21 +22,21 @@ $ chrome-web-store-item-property-cli --help
     $ chrome-web-store-item-property-cli [identifier]
 
   Examples
-    $ chrome-web-store-item-property-cli nimelepbpejjlbmoobocpfnjhihnpked | python -mjson.tool
+    $ chrome-web-store-item-property-cli nimelepbpejjlbmoobocpfnjhihnpked | jq .
     {
-      "id": "nimelepbpejjlbmoobocpfnjhihnpked",
+      "name": "Do Not Merge WIP for GitHub",
+      "url": "https://chrome.google.com/webstore/detail/do-not-merge-wip-for-gith/nimelepbpejjlbmoobocpfnjhihnpked",
       "image": "https://ssl.gstatic.com/chrome/webstore/images/thumb.png",
+      "version": "1.0.6",
+      "price": "$0",
+      "priceCurrency": "USD",
       "interactionCount": {
         "UserDownloads": "421"
       },
-      "name": "Do Not Merge WIP for GitHub",
       "operatingSystems": "Chrome",
-      "price": "$0",
-      "priceCurrency": "USD",
-      "ratingCount": "2",
       "ratingValue": "4.5",
-      "url": "https://chrome.google.com/webstore/detail/do-not-merge-wip-for-gith/nimelepbpejjlbmoobocpfnjhihnpked",
-      "version": "1.0.6"
+      "ratingCount": "2",
+      "id": "nimelepbpejjlbmoobocpfnjhihnpked"
     }
 ```
 
