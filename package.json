@@ -29,9 +29,18 @@
     "cli.js"
   ],
   "keywords": [
-    "",
+    "api",
+    "chrome",
+    "chrome-app",
+    "chrome-extension",
+    "chrome-theme",
+    "chrome-web-store",
     "cli",
-    "cli-app"
+    "cli-app",
+    "itemprop",
+    "meta",
+    "web-store",
+    "webstore"
   ],
   "license": "MIT",
   "repository": "pandawing/node-chrome-web-store-item-property-cli",
