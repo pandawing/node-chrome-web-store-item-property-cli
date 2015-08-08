@@ -1,3 +1,9 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2015-08-08)
+
+* Update dependency of `chrome-web-store-item-property`
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2015-08-07)
 
