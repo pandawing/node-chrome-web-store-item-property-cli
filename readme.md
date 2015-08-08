@@ -31,11 +31,11 @@ $ chrome-web-store-item-property-cli --help
       "price": "$0",
       "priceCurrency": "USD",
       "interactionCount": {
-        "UserDownloads": "421"
+        "UserDownloads": 421
       },
       "operatingSystems": "Chrome",
-      "ratingValue": "4.5",
-      "ratingCount": "2",
+      "ratingValue": 4.5,
+      "ratingCount": 2,
       "id": "nimelepbpejjlbmoobocpfnjhihnpked"
     }
 ```
