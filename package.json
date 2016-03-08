@@ -7,7 +7,10 @@
     "email": "o.gata.ken@gmail.com",
     "url": "sane.jp"
   },
-  "bin": "cli.js",
+  "bin": {
+    "chrome-web-store-item-property": "cli.js",
+    "chrome-web-store-item-property-cli": "cli.js"
+  },
   "dependencies": {
     "chrome-web-store-item-property": "^1.1.0",
     "meow": "^3.3.0"
