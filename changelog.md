@@ -1,3 +1,9 @@
+<a name="1.0.3"></a>
+## 1.0.3 (2016-03-08)
+
+* `chrome-web-store-item-property`, `chrome-web-store-item-property-cli`, both are cli command.
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2015-08-08)
 
