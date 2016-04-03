@@ -1,3 +1,18 @@
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/pandawing/node-chrome-web-store-item-property-cli/compare/v1.0.4...v2.0.0) (2016-04-03)
+
+
+### Features
+
+* **cli:** drop command with suffix -cli ([478222c](https://github.com/pandawing/node-chrome-web-store-item-property-cli/commit/478222c))
+
+
+### BREAKING CHANGES
+
+* Use `chrome-web-store-item-property` instead of `chrome-web-store-item-property-cli`.
+
+
+
 <a name="1.0.4"></a>
 ## [1.0.4](https://github.com/pandawing/node-chrome-web-store-item-property-cli/compare/v1.0.3...v1.0.4) (2016-04-03)
 
