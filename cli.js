@@ -7,10 +7,10 @@ var chromeWebStoreItemProperty = require('chrome-web-store-item-property');
 var cli = meow({
   help: [
     'Usage',
-    '  $ chrome-web-store-item-property-cli [identifier]',
+    '  $ chrome-web-store-item-property [identifier]',
     '',
     'Examples',
-    '  $ chrome-web-store-item-property-cli nimelepbpejjlbmoobocpfnjhihnpked | jq .',
+    '  $ chrome-web-store-item-property nimelepbpejjlbmoobocpfnjhihnpked | jq .',
     '  {',
     '    "name": "Do Not Merge WIP for GitHub",',
     '    "url": "https://chrome.google.com/webstore/detail/do-not-merge-wip-for-gith/nimelepbpejjlbmoobocpfnjhihnpked",',
