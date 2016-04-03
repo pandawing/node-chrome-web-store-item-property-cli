@@ -8,8 +8,7 @@
     "url": "sane.jp"
   },
   "bin": {
-    "chrome-web-store-item-property": "cli.js",
-    "chrome-web-store-item-property-cli": "cli.js"
+    "chrome-web-store-item-property": "cli.js"
   },
   "dependencies": {
     "chrome-web-store-item-property": "^1.1.0",
