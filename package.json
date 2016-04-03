@@ -16,7 +16,6 @@
     "meow": "^3.3.0"
   },
   "devDependencies": {
-    "conventional-changelog": "^1.1.0",
     "david": "^7.0.0",
     "eclint": "^1.1.1",
     "eslint": "^2.6.0",
