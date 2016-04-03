@@ -1,3 +1,9 @@
+<a name="1.0.4"></a>
+## [1.0.4](https://github.com/pandawing/node-chrome-web-store-item-property-cli/compare/v1.0.3...v1.0.4) (2016-04-03)
+
+* Update deps
+
+
 <a name="1.0.3"></a>
 ## 1.0.3 (2016-03-08)
 
