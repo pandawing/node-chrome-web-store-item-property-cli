@@ -12,16 +12,16 @@
   },
   "dependencies": {
     "chrome-web-store-item-property": "^1.1.0",
-    "meow": "^3.3.0"
+    "meow": "^5.0.0"
   },
   "devDependencies": {
-    "conventional-changelog-cli": "^1.1.1",
-    "david": "^9.0.0",
-    "eclint": "^1.1.1",
-    "eslint": "^3.12.2",
+    "conventional-changelog-cli": "^2.0.23",
+    "david": "^11.0.0",
+    "eclint": "^2.8.1",
+    "eslint": "^6.2.2",
     "fixpack": "^2.2.0",
     "globstar": "^1.0.0",
-    "npm-check-updates": "^2.1.0"
+    "npm-check-updates": "^3.1.21"
   },
   "engines": {
     "node": ">=4"
