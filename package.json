@@ -18,7 +18,6 @@
     "conventional-changelog-cli": "^1.1.1",
     "eclint": "^2.8.1",
     "eslint": "^3.12.2",
-    "fixpack": "^2.2.0",
     "globstar": "^1.0.0",
     "npm-check-updates": "^2.1.0"
   },
@@ -48,7 +47,6 @@
     "changelog": "conventional-changelog --infile changelog.md --same-file --preset angular",
     "eclint": "globstar --ignore \"node_modules/**\" -- eclint check \"*.{js,yml,md,json}\"",
     "eslint": "eslint .",
-    "fixpack": "fixpack",
     "git:tag": "git tag v${npm_package_version}",
     "lint": "npm run eclint && npm run eslint",
     "ncu": "ncu -u",
