@@ -16,7 +16,6 @@
   },
   "devDependencies": {
     "conventional-changelog-cli": "^1.1.1",
-    "david": "^9.0.0",
     "eclint": "^2.8.1",
     "eslint": "^3.12.2",
     "fixpack": "^2.2.0",
@@ -47,7 +46,6 @@
   "repository": "pandawing/node-chrome-web-store-item-property-cli",
   "scripts": {
     "changelog": "conventional-changelog --infile changelog.md --same-file --preset angular",
-    "david": "david update",
     "eclint": "globstar --ignore \"node_modules/**\" -- eclint check \"*.{js,yml,md,json}\"",
     "eslint": "eslint .",
     "fixpack": "fixpack",
