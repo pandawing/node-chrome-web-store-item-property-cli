@@ -15,7 +15,7 @@
     "meow": "^3.3.0"
   },
   "devDependencies": {
-    "conventional-changelog-cli": "^1.1.1",
+    "conventional-changelog-cli": "^2.0.25",
     "eclint": "^2.8.1",
     "eslint": "^6.6.0",
     "globstar": "^1.0.0",
