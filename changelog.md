@@ -1,3 +1,7 @@
+## [2.0.1](https://github.com/pandawing/node-chrome-web-store-item-property-cli/compare/v2.0.0...v2.0.1) (2019-11-08)
+
+* Update dependencies
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/pandawing/node-chrome-web-store-item-property-cli/compare/v1.0.4...v2.0.0) (2016-04-03)
 
