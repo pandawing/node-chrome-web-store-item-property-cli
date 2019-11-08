@@ -19,7 +19,7 @@
     "eclint": "^2.8.1",
     "eslint": "^3.12.2",
     "globstar": "^1.0.0",
-    "npm-check-updates": "^2.1.0"
+    "npm-check-updates": "^3.2.1"
   },
   "engines": {
     "node": ">=4"
