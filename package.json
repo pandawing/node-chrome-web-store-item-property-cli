@@ -20,7 +20,7 @@
     "eslint": "^3.12.2",
     "fixpack": "^2.2.0",
     "globstar": "^1.0.0",
-    "npm-check-updates": "^2.1.0"
+    "npm-check-updates": "^3.2.1"
   },
   "engines": {
     "node": ">=4"
