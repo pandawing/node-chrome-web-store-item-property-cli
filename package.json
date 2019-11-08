@@ -22,7 +22,7 @@
     "npm-check-updates": "^3.2.1"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">= 10"
   },
   "files": [
     "cli.js"
